@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="369" height="592" alt="photo_2026-06-05_12-58-44" src="https://github.com/user-attachments/assets/cdc4618a-14a8-4e87-932f-ad41d7c0b2d9" />
-
 
 # ⚡ SmartIP Lookup
 
@@ -13,6 +11,13 @@
 [📥 Chrome](#-chrome) · [🦊 Firefox](#-firefox) · [🔷 Edge](#-edge) · [✨ Features](#-features)
 
 </div>
+
+<img width="372" height="126" alt="photo_2026-06-05_12-58-40" src="https://github.com/user-attachments/assets/026b05a5-3aa3-4de0-a2fa-26250306fb69" />
+<img width="361" height="532" alt="photo_2026-06-05_12-58-41" src="https://github.com/user-attachments/assets/653d59cd-ae6a-43e2-ae3b-929493a11a3e" />
+<img width="369" height="442" alt="photo_2026-06-05_12-58-42" src="https://github.com/user-attachments/assets/a134ed91-578e-40c1-85c6-40617fd6d976" />
+<img width="365" height="589" alt="photo_2026-06-05_12-58-47" src="https://github.com/user-attachments/assets/d64bbfa6-cbbd-4ccb-9d5d-8dace8fc30e5" />
+<img width="369" height="592" alt="photo_2026-06-05_12-58-44" src="https://github.com/user-attachments/assets/2ebdb632-07a2-40e3-93dc-a42975c39c6b" />
+
 
 ---
 
