@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="images/icon128.png" width="80" alt="SmartIP Lookup">
+<img width="369" height="592" alt="photo_2026-06-05_12-58-44" src="https://github.com/user-attachments/assets/cdc4618a-14a8-4e87-932f-ad41d7c0b2d9" />
+
 
 # ⚡ SmartIP Lookup
 
