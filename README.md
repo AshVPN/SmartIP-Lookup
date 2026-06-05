@@ -11,7 +11,8 @@
 [📥 Chrome](#-chrome) · [🦊 Firefox](#-firefox) · [🔷 Edge](#-edge) · [✨ Features](#-features)
 
 </div>
-<img width="365" height="589" alt="photo_2026-06-05_12-58-47" src="https://github.com/user-attachments/assets/d64bbfa6-cbbd-4ccb-9d5d-8dace8fc30e5" /> <img width="369" height="592" alt="photo_2026-06-05_12-58-44" src="https://github.com/user-attachments/assets/2ebdb632-07a2-40e3-93dc-a42975c39c6b" /> <img width="364" height="529" alt="image" src="https://github.com/user-attachments/assets/bb377266-efe9-4612-9dfe-153bbd0226a2" />
+<img width="365" height="589" alt="photo_2026-06-05_12-58-47" src="https://github.com/user-attachments/assets/d64bbfa6-cbbd-4ccb-9d5d-8dace8fc30e5" /> <img width="369" height="592" alt="photo_2026-06-05_12-58-44" src="https://github.com/user-attachments/assets/2ebdb632-07a2-40e3-93dc-a42975c39c6b" /> <img width="364" height="529" alt="image" src="https://github.com/user-attachments/assets/bb377266-efe9-4612-9dfe-153bbd0226a2" /> <img width="365" height="268" alt="image" src="https://github.com/user-attachments/assets/82d52d02-ef13-4614-b8e3-2711f345e1a9" />
+
 
 
 
